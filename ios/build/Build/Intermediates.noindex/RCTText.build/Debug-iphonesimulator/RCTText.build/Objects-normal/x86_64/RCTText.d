@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h

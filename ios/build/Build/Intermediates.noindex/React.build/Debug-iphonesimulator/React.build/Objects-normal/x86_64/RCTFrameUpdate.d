@@ -1,0 +1,6 @@
+dependencies: \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/node_modules/react-native/React/Base/RCTFrameUpdate.m \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/node_modules/react-native/React/Base/RCTDefines.h

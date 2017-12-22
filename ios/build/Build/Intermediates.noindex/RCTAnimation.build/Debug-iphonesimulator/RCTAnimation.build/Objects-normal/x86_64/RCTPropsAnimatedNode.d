@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.m \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
+  /Users/berkalgul/Desktop/ReactCourse/rn-workshop-bahcesehir/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h
